@@ -1,4 +1,4 @@
-const API = "https://errtrack.onrender.com";
+const API = "https://errtrack-uesv.onrender.com";
 
 async function apiFetch(path, options = {}) {
     const res = await fetch(API + path, {
