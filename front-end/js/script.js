@@ -1,7 +1,7 @@
 (function () {
   'use strict';
 
-  const API = "https://errtrack.onrender.com";
+  const API = "https://errtrack-uesv.onrender.com";
 
   var selSev  = '';
   var myChart = null;
